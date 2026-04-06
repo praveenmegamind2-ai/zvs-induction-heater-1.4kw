@@ -87,7 +87,8 @@ f = 1 / (2π√LC)
 
 ## System and functioning
 
-![LTspice sim](IMG_3421.jpg)  
+![LTspice sim](IMG_3421.jpg) 
+![LTspice sim](physical%heater.jpg)
 
 ---
 
